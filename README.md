@@ -54,4 +54,4 @@ MAINTAINERS
 -----------
 
 Current maintainers:
-* Preston Scibek <psscibek@gmail.com.com>
+* Preston Scibek <psscibek@gmail.com>
